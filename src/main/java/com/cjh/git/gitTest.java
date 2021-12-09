@@ -7,5 +7,7 @@ public class gitTest {
         System.out.println("Hello git ~~~~hot-fix commit");
         System.out.println("Hello git~~~hot-fix first update");
         System.out.println("master test");
+        System.out.println("push test");
+
     }
 }
